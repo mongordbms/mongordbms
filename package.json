@@ -1,0 +1,41 @@
+{
+    "name":"mongordbms",
+    "description":"A node.js driver for MongoDB SQL support",
+    "keywords":[
+        "mongodb",
+        "mongo",
+        "driver",
+        "db",
+        "rdbms", "sql", "join"
+    ],
+    "version":"0.0.0",
+    "author":{
+        "name":"PRO",
+        "email":"mongordbms@gmail.com"
+    },
+    "contributors":[
+    ],
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/mongordbms/mongordbms.git"
+    },
+    "bugs":{
+        "url":"https://github.com/mongordbms/mongordbms/issues"
+    },
+    "dependencies":{
+        "mongodb":"1.3.23"
+    },
+
+
+    "main":"./mongordbms.js",
+    "homepage":"http://mongordbms.github.com/mongordbms/",
+
+    "engines":{
+        "node":">=0.6.19"
+    },
+    "readme":"Comming on 21-03-14",
+    "readmeFilename":"Readme.md",
+    "_id":"mongordbms@0.0.0"
+
+
+}
